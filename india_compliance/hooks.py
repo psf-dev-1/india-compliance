@@ -1,10 +1,10 @@
 app_name = "india_compliance"
 app_title = "India Compliance"
-app_publisher = "Resilient Tech"
-app_description = "ERPNext app to simplify compliance with Indian Rules and Regulations"
+app_publisher = "Peunier"
+app_description = "A module for ERPNext to simplify compliance with Indian Rules and Regulations"
 app_icon = "octicon octicon-file-directory"
 app_color = "grey"
-app_email = "hello@indiacompliance.app"
+app_email = "connect@peunier.com"
 app_license = "GNU General Public License (v3)"
 required_apps = ["frappe/erpnext"]
 app_home = "/desk/gst-india"
